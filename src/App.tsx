@@ -1,5 +1,3 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { GameStateProvider } from './src/context/GameStateContext';
 import { SplashLogin } from './src/screens/SplashLogin';
 import { Survey } from './src/screens/Survey';
